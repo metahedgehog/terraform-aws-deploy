@@ -21,7 +21,7 @@ Before running the Terraform scripts, ensure you have the following prerequisite
 2. **Navigate to the Project Directory**: Change into the project directory.
 
     ```bash
-    cd terraform-aws-infrastructure
+    cd terraform-aws-deploy
     ```
 
 3. **Initialize Terraform**: Run the following command to initialize Terraform in the project directory.
