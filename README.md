@@ -15,7 +15,7 @@ Before running the Terraform scripts, ensure you have the following prerequisite
 1. **Clone the Repository**: Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/metahedgehog/terraform-aws-infrastructure.git
+    git clone https://github.com/metahedgehog/terraform-aws-deploy.git
     ```
 
 2. **Navigate to the Project Directory**: Change into the project directory.
